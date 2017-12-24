@@ -8,6 +8,22 @@ public class Main {
         try {
             Simulador simula = new Simulador();
             simula.principal();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
         }
         catch (Exception castException){
             System.out.println("La opción debe ser numérica");

@@ -5,5 +5,17 @@ public class Simulador {
     public void principal() throws Exception{
         menu = new InterfazDeUsuario();
         menu.muestraMenu();
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
