@@ -3,7 +3,7 @@ package Banco;
 import java.io.Serializable;
 import java.util.HashSet;
 
-public class Cliente extends Persona implements Serializable {
+public class Cliente extends Persona {
     protected float saldo;
     protected  boolean esPremium;
     protected HashSet<PaqueteDeAcciones> paquetesAcciones;
