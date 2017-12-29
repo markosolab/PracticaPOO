@@ -121,12 +121,8 @@ public class Banco {
     public void showClientes() {
         if (clientes.size() == 0) System.out.println("No hay clientes en la banco!");
         else {
-            Iterator iterador = clientes.iterator();
-            while (iterador.hasNext()) {
-                Cliente cliente = (Cliente) iterador.next();
                 System.out.println(clientes.toString());
             }
-        }
     }
 
     /*Nombre método: copiaSeguridadBanco

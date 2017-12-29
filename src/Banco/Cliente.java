@@ -35,7 +35,7 @@ public class Cliente extends Persona {
 
     public String toString (){
         //faltan añadir las acciones entre saldo y acciones
-            return "Nombre Cliente: "+this.nombre + "  ||||  dni: "+this.dni +"  ||||Saldo: "+ this.saldo+ "    |||| Categoria: NO Premium";
+            return "Nombre Cliente: "+this.nombre + "  ||||  dni: "+this.dni +"  ||||Saldo: "+ this.saldo+ "    |||| Categoria: NO Premium"+"\n";
     }
 
     @Override
