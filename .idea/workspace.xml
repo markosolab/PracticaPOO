@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db106ef-d766-4cc8-86eb-4411bf9e799a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Banco/GestorDeInversiones.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Banco/Banco.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Banco/Banco.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Banco/Cliente.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Banco/Cliente.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Banco/ClientePremium.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Banco/ClientePremium.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Bolsa/BolsaDeValores.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Bolsa/BolsaDeValores.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Bolsa/Empresa.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Bolsa/Empresa.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/General/InterfazDeUsuario.class" afterPath="$PROJECT_DIR$/out/production/Simulador/General/InterfazDeUsuario.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/General/Simulador.class" afterPath="$PROJECT_DIR$/out/production/Simulador/General/Simulador.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Utilidades/Input.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Utilidades/Input.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Utilidades/Utilidades.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/Simulador/com/company/Main.class" />
-      <change beforePath="$PROJECT_DIR$/src/Banco/Banco.java" afterPath="$PROJECT_DIR$/src/Banco/Banco.java" />
-      <change beforePath="$PROJECT_DIR$/src/Bolsa/BolsaDeValores.java" afterPath="$PROJECT_DIR$/src/Bolsa/BolsaDeValores.java" />
-      <change beforePath="$PROJECT_DIR$/src/General/InterfazDeUsuario.java" afterPath="$PROJECT_DIR$/src/General/InterfazDeUsuario.java" />
       <change beforePath="$PROJECT_DIR$/src/General/Simulador.java" afterPath="$PROJECT_DIR$/src/General/Simulador.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Banco.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Banco.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Banco/Banco.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3127">
-              <caret line="249" column="0" lean-forward="false" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1514#1515#0" expanded="true" />
@@ -66,10 +53,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="GestorDeInversiones.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Banco/GestorDeInversiones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Cliente.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Banco/Cliente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="480">
               <caret line="37" column="144" lean-forward="false" selection-start-line="37" selection-start-column="144" selection-end-line="37" selection-end-column="144" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,8 +80,8 @@
       <file leaf-file-name="Empresa.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bolsa/Empresa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="105">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -91,7 +90,7 @@
       <file leaf-file-name="Input.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Utilidades/Input.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
+            <state relative-caret-position="600">
               <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,8 +102,8 @@
       <file leaf-file-name="Simulador.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/General/Simulador.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+            <state relative-caret-position="516">
+              <caret line="183" column="93" lean-forward="false" selection-start-line="183" selection-start-column="93" selection-end-line="183" selection-end-column="93" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,7 +114,7 @@
       <file leaf-file-name="BolsaDeValores.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bolsa/BolsaDeValores.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="1230">
               <caret line="99" column="134" lean-forward="false" selection-start-line="99" selection-start-column="134" selection-end-line="99" selection-end-column="134" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -130,7 +129,7 @@
       <file leaf-file-name="Utilidades.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/General/Utilidades.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="75">
               <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding />
             </state>
@@ -140,7 +139,7 @@
       <file leaf-file-name="InterfazDeUsuario.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/General/InterfazDeUsuario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="3450">
               <caret line="440" column="31" lean-forward="false" selection-start-line="440" selection-start-column="31" selection-end-line="440" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -222,17 +221,17 @@
         <option value="$PROJECT_DIR$/src/Bolsa/BolsaDeValores.java" />
         <option value="$PROJECT_DIR$/src/General/InterfazDeUsuario.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/Banco/Banco.java" />
+        <option value="$PROJECT_DIR$/src/Banco/GestorDeInversion.java" />
         <option value="$PROJECT_DIR$/src/Banco/GestorDeInversiones.java" />
         <option value="$PROJECT_DIR$/src/General/Simulador.java" />
-        <option value="$PROJECT_DIR$/src/Banco/Banco.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="22" />
-    <option name="y" value="62" />
-    <option name="width" value="1647" />
-    <option name="height" value="1309" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1349" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -252,10 +251,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -302,6 +297,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -450,7 +449,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="23" width="2560" height="1349" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -461,12 +460,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35526314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35473767" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1913767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19101563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -535,6 +534,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/General/InterfazDeUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="440" column="31" lean-forward="false" selection-start-line="440" selection-start-column="31" selection-end-line="440" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#leeCadenaTextoTeclado#0;class#InterfazDeUsuario#0" expanded="false" />
+            <element signature="method#leeNumeroDecimalTeclado#0;class#InterfazDeUsuario#0" expanded="false" />
+            <element signature="method#menu#0;class#InterfazDeUsuario#0" expanded="false" />
+            <element signature="method#promocionaPremium#0;class#InterfazDeUsuario#0" expanded="false" />
+            <element signature="method#bajaEmpresaBolsa#0;class#InterfazDeUsuario#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banco/Banco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3495">
+          <caret line="249" column="0" lean-forward="false" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
+            <element signature="e#1589#1590#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1694#1695#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1834#1835#0" expanded="true" />
+            <element signature="e#1891#1892#0" expanded="true" />
+            <element signature="e#1927#1928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -597,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -725,12 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="66" lean-forward="false" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
-          <folding>
-            <element signature="e#181#182#0" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#308#309#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -738,10 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="63" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="63" />
-          <folding>
-            <element signature="e#192#193#0" expanded="false" />
-            <element signature="e#222#223#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,7 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,9 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -874,7 +891,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Utilidades/Input.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="600">
           <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -884,7 +901,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banco/Cliente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
+        <state relative-caret-position="480">
           <caret line="37" column="144" lean-forward="false" selection-start-line="37" selection-start-column="144" selection-end-line="37" selection-end-column="144" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -894,7 +911,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/General/Utilidades.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="75">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
@@ -902,7 +919,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bolsa/BolsaDeValores.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="1230">
           <caret line="99" column="134" lean-forward="false" selection-start-line="99" selection-start-column="134" selection-end-line="99" selection-end-column="134" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -915,25 +932,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bolsa/Empresa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/General/InterfazDeUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="3450">
           <caret line="440" column="31" lean-forward="false" selection-start-line="440" selection-start-column="31" selection-end-line="440" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -946,28 +953,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/General/Simulador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Banco/GestorDeInversiones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banco/GestorDeInversiones.java" />
     <entry file="file://$PROJECT_DIR$/src/Banco/Banco.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3127">
-          <caret line="249" column="0" lean-forward="false" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1514#1515#0" expanded="true" />
@@ -980,6 +970,36 @@
             <element signature="e#1834#1835#0" expanded="true" />
             <element signature="e#1891#1892#0" expanded="true" />
             <element signature="e#1927#1928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banco/GestorDeInversiones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/General/Simulador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="183" column="93" lean-forward="false" selection-start-line="183" selection-start-column="93" selection-end-line="183" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
