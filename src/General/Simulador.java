@@ -145,6 +145,8 @@ public class Simulador {
                         break;
 
                     case 8:     //SOLICITA RECOMENDACION DE INVERSION AL GESTOR
+                        interfaz.consultaValores();
+                        banco.recomendacionDeInversion(interfaz.getDni());
                         break;
 
                     case 9:     //AÑADIR EMPRESA A LA BOLSA
