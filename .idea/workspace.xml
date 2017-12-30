@@ -3,24 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2db106ef-d766-4cc8-86eb-4411bf9e799a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Banco/Banco.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Banco/Banco.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Banco/Cliente.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Banco/Cliente.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Banco/Persona.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Banco/Persona.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Bolsa/BolsaDeValores.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Bolsa/BolsaDeValores.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Bolsa/Empresa.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Bolsa/Empresa.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/General/Escaner.class" afterPath="$PROJECT_DIR$/out/production/Simulador/General/Escaner.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/General/InterfazDeUsuario.class" afterPath="$PROJECT_DIR$/out/production/Simulador/General/InterfazDeUsuario.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/General/Simulador.class" afterPath="$PROJECT_DIR$/out/production/Simulador/General/Simulador.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/General/Utilidades.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeActualizacion.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeActualizacion.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeCompra.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeCompra.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeRespuestaActualizacion.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeRespuestaActualizacion.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeRespuestaCompra.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeRespuestaCompra.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeRespuestaVenta.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeRespuestaVenta.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeVenta.class" afterPath="$PROJECT_DIR$/out/production/Simulador/Mensajes/MensajeVenta.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Simulador/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/Simulador/com/company/Main.class" />
-      <change beforePath="$PROJECT_DIR$/src/Banco/Banco.java" afterPath="$PROJECT_DIR$/src/Banco/Banco.java" />
-      <change beforePath="$PROJECT_DIR$/src/Banco/Cliente.java" afterPath="$PROJECT_DIR$/src/Banco/Cliente.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-243">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="22" column="62" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="22" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Banco.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Banco.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Banco/Banco.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="124" column="13" lean-forward="false" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
+            <state relative-caret-position="2160">
+              <caret line="144" column="27" lean-forward="true" selection-start-line="144" selection-start-column="27" selection-end-line="144" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1495#1496#0" expanded="true" />
@@ -206,6 +188,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
     <option name="y" value="62" />
     <option name="width" value="1647" />
     <option name="height" value="1309" />
@@ -248,25 +231,7 @@
               <item name="PracticaPOO" type="b2602c69:ProjectViewProjectNode" />
               <item name="PracticaPOO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Banco" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticaPOO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticaPOO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticaPOO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticaPOO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticaPOO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticaPOO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Utilidades" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,7 +240,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.CVS" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -400,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514566087153</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="REALIZADAS FUNCIONALIDADES DE:&#10;- COPIAR BANCO EN DISCO&#10;- RESTAURAR BANCO DESDE DISCO&#10;- COPIAR BOLSA EN DISCO&#10;- RESTAURAR BOLSA DESDE DISCO&#10;&#10;INCLUYO FICHEROS CON DATOS DE CLIENTES Y EMPRESAS">
+      <created>1514566925687</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1514566925687</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -413,7 +385,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="62" width="1647" height="1309" extended-state="0" />
+    <frame x="22" y="62" width="1647" height="1309" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -423,12 +395,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35569927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35569927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18822101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18822101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -486,7 +458,8 @@
     <MESSAGE value="Terminada la funcionalidad de otorgar categoria premium a un cliente y asiganrle un gestor" />
     <MESSAGE value="Avanzado copiade Clientes, Empresas" />
     <MESSAGE value="REALIZADAS DUNCIONALIDADES DE:&#10;- COPIAR BANCO EN DISCO&#10;- RESTAURAR BANCO DESDE DISCO&#10;- COPIAR BOLSA EN DISCO&#10;- RESTAURAR BOLSA DESDE DISCO" />
-    <option name="LAST_COMMIT_MESSAGE" value="REALIZADAS DUNCIONALIDADES DE:&#10;- COPIAR BANCO EN DISCO&#10;- RESTAURAR BANCO DESDE DISCO&#10;- COPIAR BOLSA EN DISCO&#10;- RESTAURAR BOLSA DESDE DISCO" />
+    <MESSAGE value="REALIZADAS FUNCIONALIDADES DE:&#10;- COPIAR BANCO EN DISCO&#10;- RESTAURAR BANCO DESDE DISCO&#10;- COPIAR BOLSA EN DISCO&#10;- RESTAURAR BOLSA DESDE DISCO&#10;&#10;INCLUYO FICHEROS CON DATOS DE CLIENTES Y EMPRESAS" />
+    <option name="LAST_COMMIT_MESSAGE" value="REALIZADAS FUNCIONALIDADES DE:&#10;- COPIAR BANCO EN DISCO&#10;- RESTAURAR BANCO DESDE DISCO&#10;- COPIAR BOLSA EN DISCO&#10;- RESTAURAR BOLSA DESDE DISCO&#10;&#10;INCLUYO FICHEROS CON DATOS DE CLIENTES Y EMPRESAS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -778,16 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/General/Simulador.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
@@ -831,8 +794,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banco/Banco.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="124" column="13" lean-forward="false" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
+        <state relative-caret-position="2160">
+          <caret line="144" column="27" lean-forward="true" selection-start-line="144" selection-start-column="27" selection-end-line="144" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1495#1496#0" expanded="true" />
@@ -844,6 +807,16 @@
             <element signature="e#1779#1780#0" expanded="true" />
             <element signature="e#1815#1816#0" expanded="true" />
             <element signature="method#promocionAClientePremium#0;class#Banco#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="62" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="22" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
